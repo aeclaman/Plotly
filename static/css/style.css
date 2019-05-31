@@ -1,0 +1,11 @@
+.jumbotron h1 {
+    color: #337ab7;
+}
+
+h5 {
+    color: #337ab7;
+}
+.panel-body {
+    padding: 5px;
+    word-wrap:break-word;
+}
